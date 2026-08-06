@@ -22,4 +22,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0136-single-number](https://github.com/anandptl/LeetCode/tree/master/0136-single-number) |
+## String
+|  |
+| ------- |
+| [0520-detect-capital](https://github.com/anandptl/LeetCode/tree/master/0520-detect-capital) |
 <!---LeetCode Topics End-->
