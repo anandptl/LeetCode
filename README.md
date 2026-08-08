@@ -28,8 +28,18 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0520-detect-capital](https://github.com/anandptl/LeetCode/tree/master/0520-detect-capital) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anandptl/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandptl/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anandptl/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Two Pointers
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anandptl/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
+## Greedy
+|  |
+| ------- |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anandptl/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 <!---LeetCode Topics End-->
