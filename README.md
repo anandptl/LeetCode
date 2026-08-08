@@ -8,6 +8,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anandptl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandptl/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/anandptl/LeetCode/tree/master/0136-single-number) |
 | [0485-max-consecutive-ones](https://github.com/anandptl/LeetCode/tree/master/0485-max-consecutive-ones) |
@@ -38,6 +39,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/anandptl/LeetCode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/anandptl/LeetCode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Greedy
 |  |
