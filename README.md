@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/anandptl/LeetCode/tree/master/0136-single-number) |
 | [0189-rotate-array](https://github.com/anandptl/LeetCode/tree/master/0189-rotate-array) |
 | [0485-max-consecutive-ones](https://github.com/anandptl/LeetCode/tree/master/0485-max-consecutive-ones) |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/anandptl/LeetCode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [1480-running-sum-of-1d-array](https://github.com/anandptl/LeetCode/tree/master/1480-running-sum-of-1d-array) |
@@ -39,6 +40,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/anandptl/LeetCode/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anandptl/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anandptl/LeetCode/tree/master/1563-stone-game-v) |
@@ -62,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/anandptl/LeetCode/tree/master/0189-rotate-array) |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/anandptl/LeetCode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1510-stone-game-iv](https://github.com/anandptl/LeetCode/tree/master/1510-stone-game-iv) |
@@ -69,17 +72,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Minimax
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anandptl/LeetCode/tree/master/1510-stone-game-iv) |
 ## Game Theory
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anandptl/LeetCode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/anandptl/LeetCode/tree/master/1563-stone-game-v) |
 ## Zero-Sum Game
 |  |
 | ------- |
+| [0877-stone-game](https://github.com/anandptl/LeetCode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/anandptl/LeetCode/tree/master/1140-stone-game-ii) |
 | [1510-stone-game-iv](https://github.com/anandptl/LeetCode/tree/master/1510-stone-game-iv) |
 ## Nim Game
